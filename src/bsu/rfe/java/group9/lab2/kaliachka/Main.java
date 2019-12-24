@@ -1,8 +1,5 @@
 package bsu.rfe.java.group9.lab2.kaliachka;
 
-
-
-
 import java.awt.Color;
 import java.awt.Toolkit;
 import java.util.Locale;
